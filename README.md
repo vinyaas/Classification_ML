@@ -3,7 +3,7 @@
 Welcome to my machine learning classification projects repository! This repository contains various classification projects where I experiment with different algorithms and evaluate their performance using a range of metrics.
 
 ## Project Overview
-In this repository, I explore machine learning classification techniques such as logistic regression, K-nearest neighbors (KNN), decision trees, and Naive Bayes. These projects demonstrate my skills in coding, data analysis, and machine learning. The dataset and project specifics are explained in each subproject folder.
+In this repository, I explore machine learning classification techniques such as logistic regression, K-nearest neighbors (KNN), decision trees, random forest and Naive Bayes. These projects demonstrate my skills in coding, data analysis, and machine learning. The dataset and project specifics are explained in each subproject folder.
 
 ## Key Features
 Here are some key features and methodologies utilized in this repository:
